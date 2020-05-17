@@ -1,2 +1,4 @@
 # Settlers_Game
-A remake of the board game "Settlers of Catan" for my course at Ohio State University.
+A remake of the board game "Settlers of Catan".
+
+2020-05-15 - upgrading for Unity 2019
